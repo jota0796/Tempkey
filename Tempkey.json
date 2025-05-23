@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "7c2cea541e0bc11f",
+    "username": "jota",
+    "password": "jota123",
+    "expiresAt": "2025-05-24",
+    "allowOffline": true
+  },
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
