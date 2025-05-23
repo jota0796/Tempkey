@@ -7,6 +7,13 @@
     "allowOffline": true
   },
   {
+    "id": "1cfbda370e5af719",
+    "username": "poco",
+    "password": "poco321",
+    "expiresAt": "2025-05-24",
+    "allowOffline": true
+  },
+  {
     "id": "7c2cea541e0bc11f",
     "username": "user01",
     "password": "user0123",
