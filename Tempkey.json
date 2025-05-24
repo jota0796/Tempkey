@@ -11,7 +11,7 @@
     "username": "poquito",
     "password": "poquito123",
     "expiresAt": "2025-05-23",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "7c2cea541e0bc11f",
