@@ -11,7 +11,7 @@
     "username": "pokoyo",
     "password": "pokoyo96",
     "expiresAt": "2025-05-25",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "7c2cea541e0bc11f",
