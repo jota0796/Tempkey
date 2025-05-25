@@ -12,5 +12,12 @@
     "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
-  }
+  },
+  {
+    "id": "1cfbda370e5af719",
+    "username": "jota",
+    "password": "jota6",
+    "expiresAt": "2025-05-26",
+    "allowOffline": true
+  },
 ]
