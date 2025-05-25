@@ -1,12 +1,5 @@
 [
   {
-    "id": "1cfbda370e5af719",
-    "username": "jota07",
-    "password": "jota0796",
-    "expiresAt": "2025-05-27",
-    "allowOffline": false
-  },
-  {
     "id": "7c2cea541e0bc11f",
     "username": "user02",
     "password": "user01234",
@@ -18,6 +11,13 @@
     "username": "user2",
     "password": "pass2",
     "expiresAt": "2025-11-30",
+    "allowOffline": false
+  },
+  {
+    "id": "1cfbda370e5af719",
+    "username": "jota07",
+    "password": "jota0796",
+    "expiresAt": "2025-05-27",
     "allowOffline": false
   }
 ]
