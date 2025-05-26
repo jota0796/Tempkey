@@ -1,5 +1,12 @@
 [
   {
+    "id": "d2652156eb2179c7",
+    "username": "luchin",
+    "password": "luchin123",
+    "expiresAt": "2025-05-27",
+    "allowOffline": false
+  },
+  {
     "id": "7c2cea541e0bc11f",
     "username": "user02",
     "password": "user01234",
