@@ -27,5 +27,155 @@
     "password": "luchin123",
     "expiresAt": "2026-05-28",
     "allowOffline": false
-  }
+  },
+  {
+    "id": "63e4560f2fe84ad0",
+    "username": "jr01",
+    "password": "jr014ad0",
+    "expiresAt": "2025-06-22",
+    "allowOffline": false
+  },
+
+  {
+    "id": "a2f64525b6ed5ee7",
+    "username": "jr02",
+    "password": "jr025ee7",
+    "expiresAt": "2025-06-19",
+    "allowOffline": false
+  },
+   {
+    "id": "27e09e9920e2e85c",
+    "username": "jr03",
+    "password": "jr03e85c",
+    "expiresAt": "2025-06-15",
+    "allowOffline": false
+  },
+  {
+    "id": "bf50bdbec187d242",
+    "username": "jr04",
+    "password": "jr04d242",
+    "expiresAt": "2025-06-10",
+    "allowOffline": false
+  },
+  {
+    "id": "d49d62bcd7e01899",
+    "username": "jr05",
+    "password": "jr051899",
+    "expiresAt": "2025-08-15",
+    "allowOffline": false
+  },
+  {
+    "id": "00500fac8bb0b7c6",
+    "username": "jr06",
+    "password": "jr05b7c6",
+    "expiresAt": "2025-06-17",
+    "allowOffline": false
+  },
+  {
+    "id": "de1c20b3012a9aad",
+    "username": "jr07",
+    "password": "jr079aad",
+    "expiresAt": "2025-06-29",
+    "allowOffline": false
+  },
+  {
+    "id": "9ed2f06290c4dedd",
+    "username": "jr08",
+    "password": "jr08dedd",
+    "expiresAt": "2025-06-29",
+    "allowOffline": false
+  },
+  {
+    "id": "63e4560f2fe84ad0",
+    "username": "jr09",
+    "password": "jr094ad0",
+    "expiresAt": "2025-06-29",
+    "allowOffline": false
+  },
+   {
+    "id": "3fb9826087b1a9b6",
+    "username": "jr10",
+    "password": "jr10a9b6",
+    "expiresAt": "2025-05-29",
+    "allowOffline": false
+  },
+  {
+    "id": "2715939bc0b7ed79",
+    "username": "jr11",
+    "password": "jr11ed79",
+    "expiresAt": "2025-05-30",
+    "allowOffline": false
+  },
+  {
+    "id": "d3f3f785591a8155",
+    "username": "jr12",
+    "password": "jr128155",
+    "expiresAt": "2025-06-22",
+    "allowOffline": false
+  },
+  {
+    "id": "708c1d87eaa86738",
+    "username": "jr13",
+    "password": "jr136738",
+    "expiresAt": "2025-06-14",
+    "allowOffline": false
+  },
+  {
+    "id": "baf652d33157c8fb",
+    "username": "jr14",
+    "password": "jr14c8fb",
+    "expiresAt": "2025-06-23",
+    "allowOffline": false
+  },
+  {
+    "id": "c7b63087d7e211db1",
+    "username": "jr15",
+    "password": "jr151db1",
+    "expiresAt": "2025-06-01",
+    "allowOffline": false
+  },
+   {
+    "id": "9ec873c1faccdcc6",
+    "username": "jr16",
+    "password": "jr16dcc6",
+    "expiresAt": "2025-06-05",
+    "allowOffline": false
+  },
+   {
+    "id": "e5afa0de7f0d0a52",
+    "username": "jr17",
+    "password": "jr170a52",
+    "expiresAt": "2025-07-24",
+    "allowOffline": false
+  },
+   {
+    "id": "70e413759fc54be7",
+    "username": "jr18",
+    "password": "jr184be7",
+    "expiresAt": "2025-06-01",
+    "allowOffline": false
+  },
+   {
+    "id": "bf5ad01b23eeed1d",
+    "username": "jr19",
+    "password": "jr19ed1d",
+    "expiresAt": "2025-06-25",
+    "allowOffline": false
+  },
+   {
+    "id": "ebd5d23c371d9d89",
+    "username": "jr20",
+    "password": "jr209d89",
+    "expiresAt": "2025-06-14",
+    "allowOffline": false
+  },
+  {
+    "id": "e64337d13c469162",
+    "username": "jr21",
+    "password": "jr219162",
+    "expiresAt": "2025-06-22",
+    "allowOffline": false
+  },
+  
+  
 ]
