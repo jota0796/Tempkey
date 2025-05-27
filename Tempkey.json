@@ -4,7 +4,7 @@
     "username": "luchin",
     "password": "luchin123",
     "expiresAt": "2025-05-27",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "7c2cea541e0bc11f",
@@ -24,7 +24,7 @@
     "id": "1cfbda370e5af719",
     "username": "poco07",
     "password": "12345678",
-    "expiresAt": "2025-05-27",
+    "expiresAt": "2025-05-26",
     "allowOffline": false
   }
 ]
