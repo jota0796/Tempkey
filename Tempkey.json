@@ -48,7 +48,7 @@
     "username": "jr3",
     "password": "jr3ec",
     "expiresAt": "2025-06-15",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "bf50bdbec187d242",
@@ -125,7 +125,7 @@
     "username": "jr14",
     "password": "jr14c8fb",
     "expiresAt": "2025-06-23",
-    "allowOffline": false
+    "allowOffline": true
   },
   {
     "id": "c7b63087d7e211db",
